@@ -136,9 +136,7 @@
   font-weight: 500;
   cursor: pointer;
   margin-top: 10px;
-  transition:
-    background 0.3s ease,
-    color 0.3s ease;
+  transition: background 0.3s ease, color 0.3s ease;
 }
 
 .add-to-cart-button:hover {
